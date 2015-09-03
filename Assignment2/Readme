@@ -1,0 +1,11 @@
+ Cloud Mininet Assignment
+
+X : No of switches   Y: No of Hosts per switch
+
+Taken as command line argument. 
+
+-   Program generates a topology with X switches and Y no of hosts per switch.
+-   Bandwidth of Odd numbered hosts is 1 MBPS and Even numbered Hosts is 2 MBPS.
+-   Even numbered hosts can contact only even numbered hosts and vice versa.
+
+Youtube link : https://youtu.be/HcUfjKjbzA0
